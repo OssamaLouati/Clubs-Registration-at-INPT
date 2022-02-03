@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: arial;
+    background: linear-gradient(-100deg, #e6f8fa, white);
+}
+.main{
+   
+    margin: 2%;
+}
+   
+.card{
+        width: 28%;
+        display: inline-block;
+        box-shadow: 2px 2px 20px rgb(26, 33, 41);
+        border-radius: 5px; 
+        margin: 2%;
+}
+   
+.image img{
+     width: 100%;
+     border-top-right-radius: 5px;
+     border-top-left-radius: 5px;
+}
+   
+.title{
+    
+     text-align: center;
+     padding: 10px;
+     
+}
+   
+h1{
+     font-size: 20px;
+}
+   
+.des{
+     padding: 3px;
+     text-align: center;
+     color:red;
+     padding-top: 10px;
+     border-bottom-right-radius: 5px;
+     border-bottom-left-radius: 5px;
+}
+button{
+     margin-top: 40px;
+     margin-bottom: 10px;
+     background-color: white;
+     border: 1px solid black;
+     border-radius: 5px;
+     padding:10px;
+}
+button:hover{
+     background-color: black;
+     color: white;
+     transition: 1s;
+     cursor: pointer;
+}

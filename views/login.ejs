@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<link rel="stylesheet" href="/style-login.css">
+		<title>INPT Club Service | Login</title>
+	</head>
+	<body>
+		<%- include ('./Partials/bar-menu.ejs') %>
+
+		<div class="login-form">
+			<h1 style="font-size: 35px;">Sign in here!</h1>
+			<form action="home" method="POST">
+				<input type="text" name="email" placeholder="Your INPT email" required>
+				<input type="password" name="password" placeholder="Password given" required>
+				<input type="submit"  value="Sign in">
+				<br>
+				<% if (typeof errors != 'undefined') { %> <% errors.forEach(error => { %>
+					<li><%= error.message %></li>
+					<% }) %> <% } %>
+			</form>
+		</div>
+	</body>
+</html>
