@@ -1,11 +1,6 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -13,13 +8,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" >
   </a>
 
   <h3 align="center">INPT Club Service</h3>
 
   <p align="center">
-    An simple web solution for clubs registration at INPT
+    A simple web solution for clubs registration at INPT
     <br />
     <a href="https://github.com/OssamaLouati/Clubs-Registration-at-INPT"><strong>Explore the docs »</strong></a>
     <br />
@@ -59,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.png" alt="Logo" width="80" height="80">
+    <img src="images/screenshot.png" alt="Logo">
   </a>
 </div>  
 
