@@ -73,6 +73,7 @@ the management of registrations to the various clubs within
 INPT using the following technologies:
 
 * [Node.js](https://nodejs.org/)
+* [Xammp](https://www.apachefriends.org/fr/index.html)
 * [Bootstrap](https://getbootstrap.com)
 * [Embedded-javascript](https://ejs.co/)
 * [JQuery](https://jquery.com)
