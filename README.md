@@ -57,7 +57,8 @@
     <img src="images/screenshot.png" alt="Logo">
   </a>
 </div>  
-
+<br>
+<br>
 Many engineering students at the INPT encounter difficulties
 in terms of registration in clubs associated with the institute. Registration is currently being done by through the “Google Forms” tool which generates trunk organizations and inconsistencies.
 To remedy this problem, we will design and develop a web solution allowing the management of registrations to the different clubs within the INPT.
