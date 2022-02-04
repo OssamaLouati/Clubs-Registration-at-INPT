@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" >
+    <img src="/views/images/logo.png" alt="Logo" >
   </a>
 
   <h3 align="center">INPT Club Service</h3>
@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/screenshot.png" alt="Logo">
+    <img src="/views/images/screenshot.png" alt="Logo">
   </a>
 </div>  
 <br>
