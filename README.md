@@ -128,7 +128,7 @@ You need first to install those modules using npm command:
    ```sh
    npm install
    ```
-4. Run the local server in` Terminal`
+4. Run the local server in `Terminal`
    ```cmd
    nodemon app
    ```
