@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/views/images/logo.PNG" alt="Logo" >
+    <img src="/views/images/logo.png" alt="Logo" >
   </a>
 
   <h3 align="center">P.INE</h3>
