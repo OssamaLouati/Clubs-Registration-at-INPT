@@ -11,10 +11,10 @@
     <img src="/views/images/logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">INPT Club Service</h3>
+  <h3 align="center">P.INE</h3>
 
   <p align="center">
-    A simple web solution for clubs registration at INPT
+    A simple web solution for INPT's Club Registration
     <br />
     <a href="https://github.com/OssamaLouati/Clubs-Registration-at-INPT"><strong>Explore the docs »</strong></a>
     <br />
