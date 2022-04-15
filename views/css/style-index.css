@@ -8,7 +8,7 @@
   }
 .content{
     position: absolute;
-    background: radial-gradient(circle, rgb(238, 167, 74) 0%, rgb(255, 255, 255) 100%);
+    background: radial-gradient(circle, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -19,7 +19,7 @@
     padding: 10px;
     border: 1px solid #ffffff;
     position: absolute;
-    width: 80%;
+    width: 100%;
     
 }
 .content .title{

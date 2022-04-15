@@ -100,6 +100,10 @@ app.get("/I3E", (req,res) =>{
 app.get("/gallery", (req,res) =>{
 	res.render("gallery");
 });
+app.get("/info-CAS", (req,res) =>{
+	res.render("./Forms/info-CAS");
+})
+
 
 app.post('/home', function(request, response) {
 	

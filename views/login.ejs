@@ -9,17 +9,20 @@
 	</head>
 	<body>
 		<%- include ('./Partials/bar-menu.ejs') %>
-
+		<center>
+			<img src="./images/logoa.PNG" style="display: flex;justify-content: center;width: 400px">
+		</center>
 		<div class="login-form">
-			<h1 style="font-size: 35px;">Sign in here!</h1>
+			<h1 style="font-size: 35px;">S'authentifier ici!</h1>
 			<form action="home" method="POST">
 				<input type="text" name="email" placeholder="Your INPT email" required>
 				<input type="password" name="password" placeholder="Password given" required>
-				<input type="submit"  value="Sign in">
+				<input type="submit"  value="Continuer">
 				<br>
 				<% if (typeof errors != 'undefined') { %> <% errors.forEach(error => { %>
 					<li><%= error.message %></li>
 					<% }) %> <% } %>
+
 			</form>
 		</div>
 	</body>
