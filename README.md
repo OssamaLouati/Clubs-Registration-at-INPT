@@ -54,11 +54,11 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/views/images/Cap1.png" alt="Logo">
-    <img src="/views/images/cap2.png" alt="Logo">
+    <img src="/views/images/Cap1.PNG" alt="Logo">
+    <img src="/views/images/cap2.PNG" alt="Logo">
     <img src="/views/images/screenshot.png" alt="Logo">
-    <img src="/views/images/cap3.png" alt="Logo">
-    <img src="/views/images/cap4.png" alt="Logo">
+    <img src="/views/images/cap3.PNG" alt="Logo">
+    <img src="/views/images/cap4.PNG" alt="Logo">
   </a>
 </div>  
 <br>
