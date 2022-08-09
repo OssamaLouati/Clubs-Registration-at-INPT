@@ -94,32 +94,9 @@ INPT using the following technologies:
 You need first to install those modules using npm command:
 * npm
   ```sh
-  npm install body-parser
+  npm install
   ```
-  ```sh
-  npm install dotenv
-  ```
-  ```sh
-  npm install ejs
-  ```
-  ```sh
-  npm install express
-  ```
-  ```sh
-  npm install express-flash
-  ```
-  ```sh
-  npm install express-session
-  ```
-  ```sh
-  npm install mysql
-  ```
-  ```sh
-  npm install nodemon
-  ```
-  ```sh
-  npm install passport passport-local
-  ```
+  
 
 ### Installation
 
